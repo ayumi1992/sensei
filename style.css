@@ -1,0 +1,94 @@
+@charset "UTF=8";
+
+html {
+    font-size: 100%;
+}
+body {
+    font-family: "Yu Gothic Midium", "游ゴシック Midium", YuGotic, "游ゴシック体", "ヒラギノ丸ゴ Pro w3", sans-serif;
+    line-height: 1.7;
+    color: #432;
+}
+a {
+    text-decoration: none;
+}
+img {
+    max-width: 100%;
+}
+
+.main-nav {
+    display: flex;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    margin-top: 34px;
+    list-style:none;
+}
+.main-nav a {
+    color: #432;
+}
+.main-nav a:hover {
+    color: #0bd;
+}
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+}
+.wrpper {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 4%;
+}
+.home-content {
+    text-align: center;
+    margin-top: 10%;
+}
+.home-content p {
+    font-size: 1.125rem;
+    margin: 10px 0 42px;
+}
+
+.page-title {
+    font-size: 5rem;
+    font-family: 'Philosopher', serif;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.button {
+    font-size: 1.375rem;
+    background: #0bd;
+    color: #fff;
+    border-radius: 5px;
+    padding: 18px 32px;
+}
+
+.button:hover {
+    background: #0090aa;
+}
+
+.button2 {
+    font-size: 1.375rem;
+    background: #0bd;
+    color: #fff;
+    border-radius: 5px;
+    padding: 18px 32px;
+}.button2:hover {
+    background: #0090aa;
+}
+
+
+
+
+
+#home {
+    background-image: url(https://attachment.outlook.live.net/owa/MSA%3Aayumi1992.5%40outlook.jp/service.svc/s/GetAttachmentThumbnail?id=AQMkADAwATMwMAItNmJjZC1jODgAYS0wMAItMDAKAEYAAAPH9wlZI3HdRoc9LoOsuAgiBwBk%2FTbYbr3wSIZasp7RSIKqAAACAQwAAABk%2FTbYbr3wSIZasp7RSIKqAAAAUnfgLgAAAAESABAAN62GocD8rEajd36qeGl8iA%3D%3D&thumbnailType=2&isc=1&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkU1RDJGMEY4REE5M0I2NzA5QzQzQTlFOEE2MTQzQzAzRDYyRjlBODAiLCJ0eXAiOiJKV1QiLCJ4NXQiOiI1ZEx3LU5xVHRuQ2NRNm5vcGhROEE5WXZtb0EifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2sub2ZmaWNlLmNvbSIsInVjIjoiMWIyMGZiZThlZGRiNDA3MTg4ZjJmOTlkYTNjNjk3Y2EiLCJ2ZXIiOiJFeGNoYW5nZS5DYWxsYmFjay5WMSIsImFwcGN0eHNlbmRlciI6Ik93YURvd25sb2FkQDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImlzc3JpbmciOiJXVyIsImFwcGN0eCI6IntcIm1zZXhjaHByb3RcIjpcIm93YVwiLFwicHVpZFwiOlwiODQ0NDI2NzM4NzgwMjk4XCIsXCJzY29wZVwiOlwiT3dhRG93bmxvYWRcIixcIm9pZFwiOlwiMDAwMzAwMDAtNmJjZC1jODhhLTAwMDAtMDAwMDAwMDAwMDAwXCIsXCJwcmltYXJ5c2lkXCI6XCJTLTEtMjgyNy0xOTY2MDgtMTgwODY0ODMzMFwifSIsIm5iZiI6MTcxMzg1NDg5MywiZXhwIjoxNzEzODU1MTkzLCJpc3MiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDBAODRkZjllN2YtZTlmNi00MGFmLWI0MzUtYWFhYWFhYWFhYWFhIiwiYXVkIjoiMDAwMDAwMDItMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL2F0dGFjaG1lbnQub3V0bG9vay5saXZlLm5ldEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJoYXBwIjoib3dhIn0.yGja3kFGa4aD7Kh8Fv_ur63yl9pYPlt-Gex144OqDUmc1ZHYKwCKTfHTeiquyXNb8_HZyv-9zGOkifL4DUEZZWrHJMEG3q1n8_YYt1T8Vz4LGqXJuu8f1NokPt3K2ee1FiL3ji8y0C0g5J8VABVDk8iodkT_7feSqAKdN4pw8qrmF218Pg6nwB2cjXYa0O6kOZUHOm-fXl2-lO8SrQKRN2ukmHTXibYI3ckaMXIH0BFo2UauONhc3hZf5EphYSggC1Cqa_9b4ovs9XmcM89--pxOyrLHx1pXKtvG74ynm_8vZ-AI5wkdTv_dKU4bzRXMtqNVE_9XrluvlT6wNDh1NA&X-OWA-CANARY=X-OWA-CANARY_cookie_is_null_or_empty&owa=outlook.office.com&scriptVer=20240412005.11&clientId=B99D9AEC4F1442F5A6F012826DC3D011&animation=true&persistenceId=ec5d4b63-a313-43c2-a38e-610643b57418/iamages/hama.jpg.jpg);
+    min-height: 100vh;
+}
+#home .page-title {
+    text-transform: none;
+}
+
+.big-bg {
+    background-size: covoe;
+    background-position: center top;
+}
